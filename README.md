@@ -1,4 +1,4 @@
-# How to Set up Your Own Chainlink Adapter in Avalanche
+# How to Use Your Own Chainlink Node In Avalanche
 # Introduction
 
 This tutorial will show you how to setup a Chainlink node with the Avalanche Fuji Testnet and create dApp smart contracts to connect to the Chainlink node.
