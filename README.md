@@ -233,7 +233,7 @@ This will list the Chainlink node container status:
 
 # Setup a Chainlink job
 
-Before we set up a job in the Chainlink node, we need to create an external adaptor which will gather the real-world data that interests us and provide this data to our dApp. For that, we have created a simple API based external adaptor written with NodeJS. [Click to download simple API external Adaptor]((tree/main/chainlink-external-adaptor)). Please follow the README.md file to install and start the adaptor.
+Before we set up a job in the Chainlink node, we need to create an external adaptor which will gather the real-world data that interests us and provide this data to our dApp. For that, we have created a simple API based external adaptor written with NodeJS. [Click to download simple API external Adaptor](tree/main/chainlink-external-adaptor). Please follow the README.md file to install and start the adaptor.
 
 ## Login to Chainlink GUI
 
